@@ -130,11 +130,11 @@ ePL包含一个预处理器，该预处理器用于检查提交的任务是否�
 
 **另欢迎对勤勉的翻译者进行慷慨捐赠：**
 
-比特币钱包地址：39sr4FzJJ49ARnGsHZRxrMoqw6NFJDZMrk
+比特币钱包地址：*39sr4FzJJ49ARnGsHZRxrMoqw6NFJDZMrk*
 
-比特币现金钱包地址：bitcoincash:pr6g2auzkcunu08chskz5uzlh3rtlf4lyshdcgjzum
+比特币现金钱包地址：*bitcoincash:pr6g2auzkcunu08chskz5uzlh3rtlf4lyshdcgjzum*
 
-XEL钱包地址：XEL-4GNH-9EB7-TRMD-BG5WG   以及公钥：2a78f77aa6c5fde82bc179fa2d05b70a6333d93960203aa30639b7c89e63066b
+XEL钱包地址：*XEL-4GNH-9EB7-TRMD-BG5WG*   以及公钥：*2a78f77aa6c5fde82bc179fa2d05b70a6333d93960203aa30639b7c89e63066b*
 
 
 
