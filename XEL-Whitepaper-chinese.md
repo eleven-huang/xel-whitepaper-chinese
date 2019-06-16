@@ -2,9 +2,9 @@
 
 **XEL顶层设计解析**
 
-		原文地址：[https://github.com/xel-software/xel-white-paper/blob/master/Whitepaper_XEL_Draft_001.md](https://github.com/xel-software/xel-white-paper/blob/master/Whitepaper_XEL_Draft_001.md)
+  原文地址：[https://github.com/xel-software/xel-white-paper/blob/master/Whitepaper_XEL_Draft_001.md](https://github.com/xel-software/xel-white-paper/blob/master/Whitepaper_XEL_Draft_001.md)
 
-		翻译：[Yijun Huang](https://www.linkedin.com/in/huang-yijun-0b7b051a/) 邮箱：[huangyijun@topgems.co](mailto:huangyijun@topgems.co)
+  翻译：[Yijun Huang](https://www.linkedin.com/in/huang-yijun-0b7b051a/)  邮箱：[huangyijun@topgems.co](mailto:huangyijun@topgems.co)
 
 
 
@@ -122,17 +122,17 @@ ePL包含一个预处理器，该预处理器用于检查提交的任务是否�
 
 XEL是完全开源的，欢迎有兴趣的同学一起参与创建。
 
-		源代码：[https://github.com/xel-software](https://github.com/xel-software)
-
-		官网：[https://xel.org/](https://xel.org/)
+  源代码：[https://github.com/xel-software](https://github.com/xel-software)
+	
+  官网：[https://xel.org/](https://xel.org/)
 
 另欢迎对翻译者进行捐赠：
 
-		比特币钱包地址：39sr4FzJJ49ARnGsHZRxrMoqw6NFJDZMrk
-
-		比特币现金钱包地址：bitcoincash:pr6g2auzkcunu08chskz5uzlh3rtlf4lyshdcgjzum
-
-		XEL钱包地址：XEL-J9N6-W6UA-SES3-94CET
+  比特币钱包地址：39sr4FzJJ49ARnGsHZRxrMoqw6NFJDZMrk
+	
+  比特币现金钱包地址：bitcoincash:pr6g2auzkcunu08chskz5uzlh3rtlf4lyshdcgjzum
+	
+  XEL钱包地址：XEL-J9N6-W6UA-SES3-94CET
 
 
 
