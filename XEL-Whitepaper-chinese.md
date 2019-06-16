@@ -12,7 +12,7 @@
 
 在这里我们要讨论的是一个基于区块链的去中心化网格计算平台 - XEL，在此平台上你可以轻松获得难以想象的巨大算力。在过去，只有少数科研类项目才能获得类似于超级计算机的巨大算力，但是现在通过XEL管理分布于全世界的计算节点（个人计算机），每个人都可以轻松获得所需的算力。在这之前，某些科研项目需要大量志愿者捐献个人计算机的算力才能展开研究，而现在只需要给计算任务设定适当的加密货币报酬，以此鼓励用户出售算力来获取回报就能开展相应的研究工作。同样在过去志愿者对于需要捐献算力的科研项目是非常挑剔的，只有少数像 在家搜寻外星智慧[2] 这种利他主义项目能激起大量志愿者的捐献兴趣，而不用浪费大量时间跟志愿者纠结这个项目到底有多少科研价值。现在通过引入加密货币做为提供算力的报酬，在XEL平台上，不管是科研项目还是*非科研项目*都能够轻松获取所需的算力。
 
-**关键词：**多通道数据流架构，区块链，分布式账本技术，性能
+**关键词：** 多通道数据流架构，区块链，分布式账本技术，性能
 
 
 
@@ -147,7 +147,7 @@ XEL钱包地址：XEL-4GNH-9EB7-TRMD-BG5WG   以及公钥：2a78f77aa6c5fde82bc1
 
 [3] [互联网梅森素数大搜索 - 维基百科](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A2%85%E6%A3%AE%E7%B4%A0%E6%95%B0%E5%A4%A7%E6%90%9C%E7%B4%A2). [在线; 访问于2019/06/04]
 
-[4] [货郎担问题 - 百度百科]([https://baike.baidu.com/item/%E8%B4%A7%E9%83%8E%E6%8B%85%E9%97%AE%E9%A2%98/4844663?fr=aladdin](https://baike.baidu.com/item/货郎担问题/4844663?fr=aladdin)). [在线; 访问于2019/06/10]
+[4] [货郎担问题 - 百度百科](https://baike.baidu.com/item/%E8%B4%A7%E9%83%8E%E6%8B%85%E9%97%AE%E9%A2%98/4844663?fr=aladdin). [在线; 访问于2019/06/10]
 
 [5] [高度并行计算 — 维基百科](https://en.wikipedia.org/wiki/Embarrassingly_parallel). [在线; 访问于2019/06/04]
 
@@ -157,7 +157,7 @@ XEL钱包地址：XEL-4GNH-9EB7-TRMD-BG5WG   以及公钥：2a78f77aa6c5fde82bc1
 
 [8] [学习ePL](https://docs.xel.org/learn-epl.html). [在线; 访问于2019/06/10]
 
-[9] [伪随机数]([https://baike.baidu.com/item/%E4%BC%AA%E9%9A%8F%E6%9C%BA%E6%95%B0](https://baike.baidu.com/item/伪随机数)). [在线; 访问于2019/06/10]
+[9] [伪随机数](https://baike.baidu.com/item/%E4%BC%AA%E9%9A%8F%E6%9C%BA%E6%95%B0). [在线; 访问于2019/06/10]
 
 [10] [哈密顿图 — 百度百科](https://www.baidu.com/link?url=6rjJ7g8mUQ_jl0_XX5qWQrw12gPVXs3D7PYVpjC68IRyXVrj579lXts4LBbLoo57PEqIjIuLjRzqXingJFo742Cr0R8vrZ6OuyQEm-Sj4SbfJI_sCojJ_Xc4qrWQ52LW&wd=&eqid=b6b08e0100069f72000000065d00a78c). [在线; 访问于2019/06/10]
 
