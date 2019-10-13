@@ -1,4 +1,4 @@
-# XEL白皮书中文版
+# XEL白皮书中文版 (XEL WHITEPAPER CHINESE VERSION)
 
 原文：https://github.com/xel-software/xel-white-paper
 
